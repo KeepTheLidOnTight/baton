@@ -4,6 +4,9 @@ Baton is intentionally a local POC built on fictional CSV exports. Before real
 teams depend on it, I would add:
 
 - Read-only CRM or Apollo context with least-privilege access.
+- Salesforce automation that prepares a handoff draft when a Closed Won deal has
+  its required handoff fields populated. A person reviews the draft and triggers
+  the handoff before it is recorded.
 - A reviewed process for corrections and ownership changes.
 - Team-specific handoff policies instead of one prototype policy.
 - Access controls, retention rules, monitoring, retries, and evaluation on
