@@ -52,11 +52,9 @@ Salesforce automation that prepares a handoff draft once the needed fields are
 populated. A person would review the draft and trigger the handoff, keeping the
 team in control of the customer record.
 
-## Assignment material
+## Project overview
 
 - [One-pager](docs/one-pager.pdf)
-
-Record a Loom under five minutes and add its link here before submitting.
 
 ## Verify
 
