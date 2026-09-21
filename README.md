@@ -47,17 +47,14 @@ This is a local, CSV-backed POC. It does not monitor CRM ownership changes or
 write to CRM. Each transfer is supplied explicitly, including the previous and
 new owners, teams, and effective date.
 
-Apollo is a **future enhancement**: a production version could retrieve
-read-only account context or ownership history using least-privilege access. It
-is deliberately not part of this demo, which keeps the data flow clear and
-avoids real credentials or customer data.
+Future enhancements include an Apollo connection for account context and a
+Salesforce automation that prepares a handoff draft once the needed fields are
+populated. A person would review the draft and trigger the handoff, keeping the
+team in control of the customer record.
 
 ## Assignment material
 
 - [One-pager](docs/one-pager.pdf)
-- [Loom walkthrough](docs/loom-walkthrough.md)
-- [Interview prep](docs/interview-prep.md)
-- [Submission checklist](docs/submission-checklist.md)
 
 Record a Loom under five minutes and add its link here before submitting.
 

@@ -28,7 +28,12 @@ Ask for missing transfer metadata before recording a change. A team can change
 while the same employee keeps ownership. Never invent a transfer to make a deck.
 
 The prototype supports sales-to-implementation and generic internal transfers.
-It runs when a user supplies a handoff; it does not monitor CRM ownership changes.
+A person supplies and triggers each handoff in this POC. In a future Salesforce
+integration, automation could prepare a draft when a Closed Won opportunity has
+the required handoff fields populated, such as sponsor, timeline, and success
+criteria. A person would still review the account context and confirm the
+handoff before it is recorded.
+
 An assessment-only request can produce a draft without recording a transfer.
 Apollo or a live CRM connection is future work, not an input to this POC.
 
