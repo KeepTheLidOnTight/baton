@@ -55,6 +55,7 @@ team in control of the customer record.
 ## Project overview
 
 - [One-pager](docs/one-pager.pdf)
+- [Demo: Baton handoff walkthrough](https://www.loom.com/share/22801091dca942bfbb0678066229cc11)
 
 ## Verify
 
